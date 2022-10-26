@@ -11,3 +11,5 @@ public class Scallop extends Seafood {
 		this.scallopPrice = price;
 	}
 }
+
+
